@@ -69,9 +69,9 @@ const Team = () => {
           <h4 class="title">Web Developer</h4>
         </div>
         <ul class="social">
-          <li><a href="https://www.facebook.com/profile.php?id=100056035449144" class="fa fa-facebook" aria-hidden="true"> <AiFillLinkedin color="white" size={25}/> </a></li>
-          <li><a href="https://www.instagram.com/sujalgupta628/" class="fa fa-twitter" aria-hidden="true"> <AiFillInstagram color="white" size={25}/></a></li>
-          <li><a href="https://www.linkedin.com/in/sujal-gupta-436752201/" class="fa fa-google-plus" aria-hidden="true"> <AiFillFacebook color="white" size={25}/></a></li>
+          <li><a href="https://www.facebook.com/profile.php?id=61550711071774&mibextid=ZbWKwL" class="fa fa-facebook" aria-hidden="true"> <AiFillLinkedin color="white" size={25}/> </a></li>
+          <li><a href="https://www.instagram.com/harshitshukla_05?igsh=bjV3eHczZDFzczFr" class="fa fa-twitter" aria-hidden="true"> <AiFillInstagram color="white" size={25}/></a></li>
+          <li><a href="www.linkedin.com/in/harshit9026" class="fa fa-google-plus" aria-hidden="true"> <AiFillFacebook color="white" size={25}/></a></li>
           
         </ul>
       </div>
